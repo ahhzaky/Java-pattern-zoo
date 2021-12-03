@@ -1,0 +1,10 @@
+Pembuatan 
+
+Binatang telah di berikan makanan dan minum
+Binatang Belum di berikan makanan dan minum
+
+1. Notif: Semua binatang telah di beri makanan dan minum
+2. Notif: Semua binatang belum di beri Makanan dan minum
+
+input   1. beri makanan
+        2. Stock makanan habis
